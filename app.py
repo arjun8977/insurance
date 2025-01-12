@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import time
 from pinecone import Pinecone
-from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.memory import ConversationBufferWindowMemory
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
