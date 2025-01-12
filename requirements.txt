@@ -2,6 +2,6 @@ langchain==0.3.14
 langchain_pinecone==0.2.2
 pinecone==5.4.2
 streamlit==1.41.1
-langchain_community==0.3.14
+langchain-community==0.3.14
 tiktoken==0.8.0
 openai==1.59.4
