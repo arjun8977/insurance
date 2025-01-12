@@ -1,4 +1,4 @@
-# Chatbot with Langchain and Pinecone
+# Insurance Chatbot with Langchain and Pinecone
 
 This implements a chatbot that utilizes Sentence Transformation and OpenAI's GPT-4o model to inform about insurance Policies in europe and Digitilization of insurance Industry. The chatbot aims to provide relevant responses to user queries by refining and enhancing their input queries, finding similar sentences using Sentence Transformation, and generating more contextually accurate conversation logs.
 
