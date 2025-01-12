@@ -6,6 +6,8 @@ This implements a chatbot that utilizes Sentence Transformation and OpenAI's GPT
 
 ![Screenshot 2023-08-08 184514](https://github.com/bbabina/Chatbot-with-Langchain-and-Pinecone/assets/74191100/4a7a22dc-ac70-426d-8765-0ef7f5c8f9b7)
 
+#### Overview of data used to train the chatbot
+
 
 ### Dependencies
 
